@@ -1,0 +1,13 @@
+/build
+/coverage
+/dist
+/node_modules
+/temp
+/.vscode
+/src/.vscode
+
+*.log
+.DS_Store
+.env
+.npm
+tasks.md
